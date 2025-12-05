@@ -5,14 +5,14 @@ The goal is to capture arm swing speed, wrist rotation, and orientation during
 bowling throws for analysis and training.
 
 ## Project Structure
-hardware/ - Firmware for the XIAO board (Arduino)
-host/logger/ - Python tools for capturing IMU data
-host/analysis/ - Data exploration & visualization notebooks
-data/raw/ - Raw CSV logs from IMU sessions
-data/processed/ - Cleaned / engineered data
-docs/ - Notes, diagrams, ideas
-## Requirements
+hardware/ - Firmware for the XIAO board (Arduino)<br>
+host/logger/ - Python tools for capturing IMU data<br>
+host/analysis/ - Data exploration & visualization notebooks<br>
+data/raw/ - Raw CSV logs from IMU sessions<br>
+data/processed/ - Cleaned / engineered data<br>
+docs/ - Notes, diagrams, ideas<br>
 
+## Requirements
 - Arduino IDE (for firmware)
 - Python 3.9+
 - `pip install -r requirements.txt`
