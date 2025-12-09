@@ -20,9 +20,8 @@ docs/ - Notes, diagrams, ideas<br>
 ## Roadmap
 
 - [x] Initial IMU CSV logger (Arduino)
-- [ ] Serial data capture (Python)
-- [ ] Swing speed analysis
-- [ ] Wrist rotation detection
-- [ ] Orientation estimation (Madgwick filter)
+- [x] Serial data capture (Python)
+- [x] Swing speed analysis
+- [x] Wrist rotation detection
 - [ ] BLE streaming mode
 - [ ] Wristband enclosure + mount
